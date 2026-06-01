@@ -10,20 +10,17 @@ ConnectWise maintains public vulnerability advisories and CVE references to prov
 
 ConnectWise supports coordinated vulnerability disclosure and works collaboratively with security researchers, partners, and customers to identify and address potential security issues.
 
-Please report vulnerabilities through the ConnectWise Vulnerability Disclosure Program as outlined in our Vulnerability Disclosure Policy.
-
-https://www.connectwise.com/company/trust/security/vulnerability-disclosure-policy
+Please report vulnerabilities through the ConnectWise Vulnerability Disclosure Program as outlined in our [Vulnerability Disclosure Policy](https://www.connectwise.com/company/trust/security/vulnerability-disclosure-policy).
 
 ## Security Resources
 
-- ConnectWise Vulnerability Disclosure Policy
-  - https://www.connectwise.com/company/trust/security/vulnerability-disclosure-policy
+- [ConnectWise Vulnerability Disclosure Policy](https://www.connectwise.com/company/trust/security/vulnerability-disclosure-policy)
 
-- ConnectWise Trust Center
-  - https://www.connectwise.com/company/trust
+- [ConnectWise Trust Center](https://www.connectwise.com/company/trust)
 
-- ConnectWise Security Bulletins
-  - https://www.connectwise.com/company/trust/security-bulletins
+- [ConnectWise Security Bulletins](https://www.connectwise.com/company/trust/security-bulletins)
+
+- [ConnectWise Security Advisories](https://www.connectwise.com/company/trust/advisories)
 
 ## Disclosures Repository
 
